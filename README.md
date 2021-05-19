@@ -132,7 +132,12 @@ echo initMenu($ussd, $url);
 
 ## Author
 
-* Azanda Zama (Email: judah.zama@gmail.com, IG: [@azanda.zama](https://instagram.com/azanda.zama), Twitter: [@azanda_zama](https://twitter.com/azanda_zama), Linkedin: [Azanda Zama](https://za.linkedin.com/in/azanda-zama-a176b2167)) 
+* Azanda Zama 
+Email: judah.zama@gmail.com
+IG: [@azanda.zama](https://instagram.com/azanda.zama)
+Twitter: [@wlrdofazanda](https://twitter.com/wlrdofazanda)
+Linkedin: [Azanda Zama](https://za.linkedin.com/in/azanda-zama-a176b2167)
+
 
 ## License
 
